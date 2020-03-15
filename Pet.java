@@ -1,8 +1,6 @@
 // Pet.java
 // Noah Pohl
 // 3-15-20 
-// IT-145 SNHU
-
 public class Pet{
     public static void main(String[] args) {
         System.out.println("yo");
